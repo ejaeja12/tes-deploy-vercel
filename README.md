@@ -27,4 +27,5 @@ APP_ENV={production | dev}
 
 ## Note
 
-Kalau gagal atau error, jangan pilih opsi redeploy tapi create deployment di dashboard vercel > deployment > carilah opsinya
+Kalau gagal atau error, jangan pilih opsi redeploy tapi create deployment di dashboard vercel > deployment > carilah opsinya.
+Jika pilih redeploy dari deployment yg sebelumnya error, kadang cache gak berubah jadi kemungkinan error juga. Makanya pilih create deployment.
